@@ -1,0 +1,3 @@
+name: bobacadodl-t3
+main: com.tenjava.entries.bobacadodl.t3.TenJava
+version: '${project.version}'

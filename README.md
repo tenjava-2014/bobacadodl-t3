@@ -33,3 +33,11 @@ Usage
 
 <!-- Hi, bobacadodl! This is the default README for every ten.java submission. -->
 <!-- We encourage you to edit this README with some information about your submission – keep in mind you'll be scored on documentation! -->
+
+
+Installation
+-----
+
+1. Drag the VillageWorld .jar file into your plugins folder
+2. Start your server
+3. The plugin's folder and configuration files will automatically generate!
